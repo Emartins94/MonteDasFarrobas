@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a86a6e1f-07ba-46a1-8ed9-e135c2484b41" name="Default" comment="all set up! let the games begin">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/box1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/cards.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/d-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/soci.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/tick1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/css/family=Montserrat400,700.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/css/family=Open+Sans400,300italic,300,600.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/css/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/details.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/js/classie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/js/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/js/uisearch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/offers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/rooms.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/shortcodes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/signin.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/index.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/index.html" />
-    </list>
+    <list default="true" id="a86a6e1f-07ba-46a1-8ed9-e135c2484b41" name="Default" comment="" />
     <ignored path="MONTEDASFUCKINGFARROBAS.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -75,8 +35,8 @@
       <file leaf-file-name="jquery-ui.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pt.Emartins94.MtDF/src/js/jquery-ui.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7889088">
-              <caret line="6469" column="14" selection-start-line="6469" selection-start-column="14" selection-end-line="6469" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.33273703">
+              <caret line="6454" column="54" selection-start-line="6454" selection-start-column="54" selection-end-line="6454" selection-end-column="54" />
               <folding>
                 <marker date="1428891046000" expanded="true" signature="30822:30839" placeholder="..." />
                 <marker date="1428891046000" expanded="true" signature="70977:70994" placeholder="..." />
@@ -675,7 +635,7 @@
       <created>1457193094371</created>
       <option name="number" value="Default" />
       <updated>1457193094371</updated>
-      <workItem from="1457193096664" duration="2699000" />
+      <workItem from="1457193096664" duration="2990000" />
     </task>
     <task id="LOCAL-00001" summary="starting to understand this intellij stuff">
       <created>1457193871972</created>
@@ -683,11 +643,17 @@
       <option name="project" value="LOCAL" />
       <updated>1457193871972</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="all set up! let the games begin">
+      <created>1457195842220</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1457195842220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2699000" />
+    <option name="totallyTimeSpent" value="2990000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -940,8 +906,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pt.Emartins94.MtDF/src/js/jquery-ui.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7889088">
-          <caret line="6469" column="14" selection-start-line="6469" selection-start-column="14" selection-end-line="6469" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.33273703">
+          <caret line="6454" column="54" selection-start-line="6454" selection-start-column="54" selection-end-line="6454" selection-end-column="54" />
           <folding>
             <marker date="1428891046000" expanded="true" signature="30822:30839" placeholder="..." />
             <marker date="1428891046000" expanded="true" signature="70977:70994" placeholder="..." />
