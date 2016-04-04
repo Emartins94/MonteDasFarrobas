@@ -49,8 +49,8 @@ label {
     width: 100% ! important;
 }
 .navbar-default {
-    background-color:#6cbc35! important;
-    border-color:#6cbc35 ! important;
+    background-color:#B45F04! important;
+    border-color:#B45F04 ! important;
 }
 .navbar {
     border-radius: 0px ! important;
@@ -69,12 +69,12 @@ label {
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #fff;
-    background-color:#6CBC35;
+    background-color:#B45F04;
 	border-bottom:2px solid #fff;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: #fff;
-    background-color:#6CBC35;
+    background-color:#B45F04;
 	border-bottom:2px solid #fff;
 }
 .glyphicon {
@@ -211,7 +211,7 @@ nav.navbar.navbar-default {
 }
 /*--*/
 .header {
-    background-color:#6cbc35;
+    background-color:#B45F04;
     padding: 1.5em 0;
 }
 .details-1 {
@@ -273,7 +273,7 @@ input#datepicker, input#datepicker1 {
     background: url(../img/box1.png) no-repeat 94% 50% #FFF;
 }
 .banner {
-  background: url(../img/6.jpg) no-repeat;
+  background: url(../img/banner.jpg) no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -313,7 +313,7 @@ span {
     color: #6cbc35;
 }
 .special {
-    background: url(../../../../../Dropbox/Monte%20das%20Farrobas/web/images/16.jpg) center fixed;
+    background: url(../img/16.jpg) center fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -838,13 +838,13 @@ div.register-bottom-grid {
 	margin-top:3em;
 }
 .banner1 {
-  background: url(../img/6.jpg) no-repeat;
+  background: url(../img/banner.jpg) no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   -ms-background-size: cover;
-  min-height: 250px;
+  min-height: 350px;
 }
 .details span {
   color: #6cbc35;
