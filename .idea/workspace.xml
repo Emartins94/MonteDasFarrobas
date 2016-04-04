@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a86a6e1f-07ba-46a1-8ed9-e135c2484b41" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/14.jpg" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/Suite.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/6.jpg" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/offers.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/Prices.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/ExteriorMealTable.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/Reformedbanner.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/TripleRoom.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/dinnerRoom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/kitchen.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/livingRoom.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/pool.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/img/quinta.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/contact.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/css/style.css" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/details.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/index.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/register.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/register.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/rooms.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/rooms.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/shortcodes.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/shortcodes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/signin.html" afterPath="$PROJECT_DIR$/pt.Emartins94.MtDF/src/signin.html" />
     </list>
     <ignored path="MONTEDASFUCKINGFARROBAS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,7 +55,7 @@
       <file leaf-file-name="rooms.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pt.Emartins94.MtDF/src/rooms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9086207">
+            <state vertical-scroll-proportion="0.87931037">
               <caret line="135" column="71" selection-start-line="135" selection-start-column="71" selection-end-line="135" selection-end-column="71" />
               <folding />
             </state>
@@ -226,6 +223,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MONTEDASFUCKINGFARROBAS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pt.Emartins94.MtDF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -698,7 +713,7 @@
       <workItem from="1458743829666" duration="10475000" />
       <workItem from="1458929446544" duration="5391000" />
       <workItem from="1459263938317" duration="182000" />
-      <workItem from="1459784213508" duration="7000" />
+      <workItem from="1459784213508" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="starting to understand this intellij stuff">
       <created>1457193871972</created>
@@ -724,11 +739,17 @@
       <option name="project" value="LOCAL" />
       <updated>1458743996289</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="...">
+      <created>1459784259095</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1459784259095</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25413000" />
+    <option name="totallyTimeSpent" value="25885000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -745,6 +766,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -758,7 +780,6 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1150,7 +1171,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pt.Emartins94.MtDF/src/rooms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9086207">
+        <state vertical-scroll-proportion="0.87931037">
           <caret line="135" column="71" selection-start-line="135" selection-start-column="71" selection-end-line="135" selection-end-column="71" />
           <folding />
         </state>
