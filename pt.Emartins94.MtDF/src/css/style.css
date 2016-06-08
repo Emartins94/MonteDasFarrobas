@@ -480,11 +480,11 @@ span {
   transform: scaleX(0);
 }
 .footer {
-  background:#553A99;
+  background:#B45F04;
   padding: 3em 0;
 }
 .footer h4 {
-    color: #ffffff;
+    color: #000000;
     font-size: 1.5em;
     margin: 0 0 1em;
     font-weight: 400;
@@ -495,7 +495,7 @@ span {
   line-height: 2em;
 }
 .footer li a {
-  color: #BBA6F1;
+  color: #000000;
   font-size: 1em;
   text-decoration: none;
 }
@@ -573,7 +573,7 @@ i.paypal {
   font-size: 0.875em;
   font-weight: 300;
   color: #fff;
-  background: #B395FF;
+  background: #6cbc35;
   padding: 0.4em 0em;
   border: none;
   width: 46% !important;
